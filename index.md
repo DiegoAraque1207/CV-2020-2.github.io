@@ -1,29 +1,19 @@
-## Welcome to GitHub Pages
+## Bienvenidos 
 
-You can use the [editor on GitHub](https://github.com/DiegoAraque1207/CV-2020-2.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Publicaciones
 
-### Markdown
+Aquí puedes encontrar los enlaces a las ultimas entradas.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+```javascript
+var arr = []
+arr.append(1)
+arr.append(12)
+arr.append(3)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+arr.foreach((element)=>{
+print(element)
+)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
